@@ -1,4 +1,4 @@
-A Telerehabilitation Platform for Range of Motion Assessment Validated with a User Study for Measurement Accuracy and Usability
+The data to be published in mHealth paper titled: "A Telerehabilitation Platform for Range of Motion Assessment Validated with a User Study for Measurement Accuracy and Usability" is compiled in this repository
 
 
 Data from 17 subjects is present in kinect+imudata folder.
